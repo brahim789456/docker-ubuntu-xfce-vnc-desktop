@@ -1,4 +1,4 @@
-FROM ubuntu:18.10
+FROM ubuntu:18.04
 MAINTAINER Chieh Yu <welkineins@gmail.com>
 
 ENV HOME /root
